@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    width: 100%;
+    height: 180px;
+    background-color: antiquewhite;
+}
+
+h1 > nav {
+    width: 50%;
+    height: 50px;
+    
+}
